@@ -1,0 +1,285 @@
+.one{
+     display: flex;
+     justify-content: space-between;
+}
+h1{
+     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     text-transform: uppercase;
+}
+ul{
+     list-style: none;
+     display: flex;
+     width: 60%;
+     justify-content: space-evenly;
+     justify-content: space-around;
+}
+ul a{ 
+     color: #000;
+     text-transform: uppercase;
+     font-family: sans-serif;
+     text-decoration: none;
+}
+ul a:hover{
+     color:aqua;  
+}
+.background{
+     background-image:url(pexels-joshsorenson-1714205.jpg);
+     height:90vh;
+     width:100%;
+     color: white;
+}
+.background h1{
+     padding:200px 0 0 80px;
+}
+.background p{
+     width:52%;
+     word-spacing: 2px;
+     padding-left:80px;
+     font-size:larger;
+}
+.background input{
+     margin-left:80px;
+     padding: 10px 40px;
+     font-size:large;
+     background-color: rgb(20, 173, 219);
+     border: none;
+     color: white;
+}
+.background input:hover{
+     background-color: rgb(22, 90, 90);
+     cursor:pointer;
+}
+.lan{
+     padding-left: 50px;
+}
+.lan p{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.html{
+     display: flex;
+     margin:10px 50px;
+}
+.s{
+     width: 700px;
+     height:250px;
+     font-size: large;
+     background-color: rgb(248, 242, 242);
+     margin:10px;
+}
+.s img{
+     width: 50px;
+}
+.o{ 
+     width: 700px;
+     height:250px;
+     font-size: large;
+     background-color: rgb(248, 242, 242);
+     margin:10px;
+     padding-left: 80px;
+
+}
+.o img{
+     width: 50px;
+}
+.n{ 
+     width: 700px;
+     height:250px;
+     font-size: large;
+     background-color: rgb(248, 242, 242);
+     margin:10px;
+     padding-left: 80px;
+
+}
+.n img{
+     width: 50px;
+}
+.d{
+     width: 700px;
+     height:250px;
+     font-size: large;
+     background-color: rgb(248, 242, 242);
+     margin:10px;
+     padding-left: 80px;
+}
+.d img{
+      width:50px;
+}
+.boot{
+      display: flex;
+      margin:10px 50px;
+}
+.poi{
+     width: 650px;
+     height:250px;
+     font-size: large;
+     background-color: rgb(248, 242, 242);
+     margin:10px;
+     padding-left:50px;
+}
+.poi img {
+     width:50px;
+}
+td img {
+     padding-bottom: 100px;
+}
+td a{
+      text-decoration: none;
+      color: rgb(38, 88, 88);
+      text-transform: capitalize;
+}
+.Creativity{
+      display: flex;
+}
+.qaz{
+     width: 600px;
+     padding-top:200px ;
+}
+.qaz h1{
+     color: rgb(20, 173, 219);
+     padding-left: 60px;
+}
+.qaz p{
+     padding-left: 60px;
+     font-size:medium;
+     font-family: sans-serif;
+}
+.im img{
+      padding-left: 100px;
+      width: 500px;
+      position: relative;
+      bottom:250px;
+      right: 50px;
+      border-radius:20px;
+} 
+.qaz button{
+     margin-left:60px;
+     padding: 10px 40px;
+     font-size:large;
+     background-color: rgb(20, 173, 219);
+     border: none;
+     color: white;
+     text-transform: capitalize;
+}
+.so{
+     background-color: rgb(9, 29, 71);
+     width: 600px;
+     height: 200px;
+     margin-top: 250px;
+}
+.problem{
+     background-image:url(pexels-joshsorenson-1714205.jpg);
+     width: 100%;
+     height: 380px;
+}
+.problem h1{
+     color: #ffff;
+     padding:130px 0 0 100px;
+}
+.problem p{
+     color: white;
+     width: 500px;
+     padding-left:100px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+span{
+     display: flex;
+     font-size: xx-large;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     padding:100px 0 0 50px;
+}
+.Client{
+     color: rgb(20, 173, 219);
+}
+.pep{
+     display: flex;
+     width: 800px;
+     font-size: large;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     border:1px ;
+}
+.ss{
+     padding:0 50px ;
+}
+.footer{
+     background-color: rgb(9, 29, 71);
+     display: flex;
+     height: 300px;
+     padding-top: 80px;
+     color: #ffff;
+}
+.footer a{
+     text-decoration: none;
+     color: #ffff;
+}
+.footer p{
+     width: 350px;
+     font-size: medium;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ff{
+     padding:10px 50px;
+}
+.footer h5{
+     font-size: larger;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-transform:capitalize;
+}
+.ff i{
+     padding-top: 20px;
+}
+h5{
+     font-size:xx-large;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.el{
+      background-color: rgb(9, 29, 71);
+      border:none;
+      color: #ffff;
+      font-size: large;
+      text-transform: capitalize;
+}
+.Subscribe{
+     padding:10px 70px;
+     font-size: larger;
+     background-color: rgb(20, 173, 219);
+     border: none;
+     border-radius: 3px;
+     color: #ffff;
+}
+.link{
+     font-size: large;
+     text-transform: capitalize;
+     display: flex;
+     padding-bottom: 10px;
+}
+.pnp{
+     text-align: center;
+     font-size: larger;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
